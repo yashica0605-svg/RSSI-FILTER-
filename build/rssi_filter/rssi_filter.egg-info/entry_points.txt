@@ -1,0 +1,3 @@
+[console_scripts]
+rssi_filter_node = rssi_filter.rssi_filter_node:main
+
